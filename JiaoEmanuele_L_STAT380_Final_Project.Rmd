@@ -1,0 +1,20 @@
+---
+title: "JiaoEmanuele_L_STAT380_Final_Project"
+author: "Luqi Jiao Emanuele"
+date: '2022-12-02'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Front Matter - Clean Environment, Load Libraries, User Defined Functions
+```{r}
+rm(list = ls())
+library(ggplot2)
+library(dplyr)
+library(mosaic)
+```
+
+# Task 1 Read the dataset into R
