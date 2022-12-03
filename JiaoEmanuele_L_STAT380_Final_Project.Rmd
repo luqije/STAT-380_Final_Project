@@ -17,4 +17,28 @@ library(dplyr)
 library(mosaic)
 ```
 
-# Task 1 Read the dataset into R
+# Task 0 Read the dataset into R
+
+```{r}
+CODGameModes <- read.csv("~/PSU/Term 5/STAT 380/Project/Final Project/JiaoEmanuele_L_STAT380_Final_Project/CODGameModes.csv")
+
+CODGames_p1 <- read.csv("~/PSU/Term 5/STAT 380/Project/Final Project/JiaoEmanuele_L_STAT380_Final_Project/CODGames_p1_380.csv", header=FALSE)
+
+CODGames_p2 <- read.csv("~/PSU/Term 5/STAT 380/Project/Final Project/JiaoEmanuele_L_STAT380_Final_Project/CODGames_p2_380.csv", header=FALSE)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
